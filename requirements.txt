@@ -1,0 +1,4 @@
+django
+djangoresframework
+djangoresframework-simplejwt
+decouple
