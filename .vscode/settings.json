@@ -9,7 +9,7 @@
         "**/__init__.py": true,
         "**/__pycache__": true,
         "**/migrations": true,
-        // "**/tests.py": true,
+        "**/tests.py": true,
         "**/apps.py": true,
         "**/asgi.py": true,
         "**/wsgi.py": true
