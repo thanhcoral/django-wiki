@@ -1,4 +1,4 @@
 django
-djangoresframework
-djangoresframework-simplejwt
+djangorestframework
+djangorestframework-simplejwt
 decouple
