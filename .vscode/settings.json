@@ -13,7 +13,7 @@
         "**/apps.py": true,
         "**/asgi.py": true,
         "**/wsgi.py": true,
-        "**/manage.py": true,
+        "**/manage.py": true
     },
     "hide-files.files": []
 }
